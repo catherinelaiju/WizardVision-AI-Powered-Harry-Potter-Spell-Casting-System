@@ -29,7 +29,6 @@ WizardVision/
 ├── images/
 ├── sounds/
 ├── main.py
-├── requirements.txt
 └── README.md
 ```
 
